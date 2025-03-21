@@ -1,12 +1,11 @@
-import CheckoutForm from "./components/CheckoutForm"
+import SmileVoting from "./components/SmileVoting"
 
 function App() {
   return (
     <div>
-      <h1>Puerology — магазин китайского чая!</h1>
-      <CheckoutForm />
+      <SmileVoting />
     </div>
-  )
+  );
 }
 
 export default App
